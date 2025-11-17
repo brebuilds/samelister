@@ -1,0 +1,24 @@
+# 🚀 Git Commands for brebuilds/samelister
+
+## COPY AND PASTE THESE COMMANDS ONE BY ONE
+
+# Step 1: Initialize git repository
+git init
+
+# Step 2: Add all files
+git add .
+
+# Step 3: Create first commit
+git commit -m "Initial commit: Chat and Form interfaces for eBay listing tool"
+
+# Step 4: Connect to your GitHub repo
+git remote add origin https://github.com/brebuilds/samelister.git
+
+# Step 5: Set main branch
+git branch -M main
+
+# Step 6: Push to GitHub
+git push -u origin main
+
+# Done! Your code is now on GitHub at:
+# https://github.com/brebuilds/samelister
